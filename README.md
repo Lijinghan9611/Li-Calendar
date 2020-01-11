@@ -1,5 +1,7 @@
 ### 通用日历，可标记，选择范围，高度自定义
 
+uniapp组件市场：https://ext.dcloud.net.cn/plugin?id=721
+
 组件名：``Li-Calendar``。
 
 1.通用日历,h5,5+app,微信小程序测试通过, 大部分内容可以自定义
